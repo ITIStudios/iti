@@ -1,2 +1,2 @@
-alert("Hello form my repo on github");
+alert("Hello from my repo on github");
 // comment
